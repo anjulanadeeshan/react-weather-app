@@ -29,3 +29,10 @@ A simple React application that fetches and displays weather information for any
 1. **Clone the repository**
 ```bash
 git clone https://github.com/YOUR_USERNAME/react-weather-app.git
+
+## Installation
+
+2. **Navigate to the project folder**
+```bash
+cd react-weather-app
+
