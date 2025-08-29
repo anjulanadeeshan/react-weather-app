@@ -6,7 +6,7 @@ A simple React application that fetches and displays weather information for any
 
 ## Demo
 
-![Weather App Screenshot](screenshot.png)  
+![Weather App Screenshot](./public/screenshot.png)  
 
 ---
 
