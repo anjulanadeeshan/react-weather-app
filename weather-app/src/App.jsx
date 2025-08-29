@@ -45,6 +45,7 @@ function App() {
   function handleSubmit(e) {
     e.preventDefault();
     getWeather();
+    setCity('');
   }
   return (
     <div className="weather-container">
