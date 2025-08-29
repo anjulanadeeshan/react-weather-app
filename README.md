@@ -9,6 +9,9 @@ A simple React application that fetches and displays weather information for any
 ![Weather App Screenshot](./public/screenshot.png)  
 
 ---
+## Live Demo
+
+Check out the live version of this app here: [Weather App Live](https://windwhisper-psi.vercel.app/)
 
 ## Features
 
