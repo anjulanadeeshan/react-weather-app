@@ -6,8 +6,7 @@ A simple React application that fetches and displays weather information for any
 
 ## Demo
 
-![Weather App Screenshot](WindWhishper.png)  
-*(Optional: Add a screenshot of your app here)*
+![Weather App Screenshot](screenshot.png)  
 
 ---
 
