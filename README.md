@@ -34,4 +34,21 @@ git clone https://github.com/YOUR_USERNAME/react-weather-app.git
 2. **Navigate to the project folder**
 ```bash
 cd react-weather-app
+```
+3. **Install dependencies**
+```bash
+npm install
+```
+
+4. **Add OpenWeatherMap API Key**
+```bash
+WeatherApp_apikey = your_api_key
+```
+
+5. **Run the development server**
+```bash
+npm run dev
+```
+
+
 
